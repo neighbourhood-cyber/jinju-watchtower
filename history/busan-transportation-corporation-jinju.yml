@@ -1,7 +1,7 @@
 url: http://www2.humetro.busan.kr/default/main.do
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-02-24T14:44:36.242Z
+status: up
+code: 200
+responseTime: 6146
+lastUpdated: 2026-02-24T15:41:22.023Z
 startTime: 2023-06-02T10:18:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
