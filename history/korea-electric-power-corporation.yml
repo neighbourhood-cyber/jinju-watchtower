@@ -1,7 +1,7 @@
 url: https://home.kepco.co.kr/kepco/main.do
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-03-31T10:15:49.901Z
+status: up
+code: 200
+responseTime: 2070
+lastUpdated: 2026-03-31T11:12:21.950Z
 startTime: 2023-06-02T10:17:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
