@@ -28,7 +28,7 @@
     "icon": "https://nilspace.xyz/content/images/2023/05/power-1.png",
     "slug": "korea-electric-power-corporation",
     "status": "up",
-    "uptime": "80.86%",
+    "uptime": "80.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -89,7 +89,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-14": 1439,
+      "2026-06-15": 158,
+      "2026-06-14": 1440,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
@@ -452,8 +453,7 @@
       "2025-06-19": 1440,
       "2025-06-18": 1440,
       "2025-06-17": 1440,
-      "2025-06-16": 1440,
-      "2025-06-15": 1440
+      "2025-06-16": 1440
     }
   },
   {
@@ -462,18 +462,19 @@
     "icon": "https://nilspace.xyz/content/images/2023/05/emergency.png",
     "slug": "jinju-police-station",
     "status": "down",
-    "uptime": "97.23%",
+    "uptime": "97.22%",
     "uptimeDay": "39.02%",
-    "uptimeWeek": "49.61%",
+    "uptimeWeek": "48.03%",
     "uptimeMonth": "61.34%",
-    "uptimeYear": "93.07%",
+    "uptimeYear": "93.03%",
     "time": 1330,
     "timeDay": 1199,
     "timeWeek": 1093,
     "timeMonth": 996,
     "timeYear": 1278,
     "dailyMinutesDown": {
-      "2026-06-14": 876,
+      "2026-06-15": 158,
+      "2026-06-14": 878,
       "2026-06-13": 790,
       "2026-06-12": 810,
       "2026-06-11": 806,
